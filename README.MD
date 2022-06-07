@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1mKGkTjgozxntdppvqbSAeoR86wjZ2LhK
 <br><br>
 <b>Vizualisations on Tableau:</b><br>
 https://public.tableau.com/app/profile/lev.drozdov/viz/Mediterraneanearthquakes/Dashboard
-<br>
+<br><br>
 The data is from US Geological Survey - https://earthquake.usgs.gov/
 https://earthquake.usgs.gov/earthquakes/search/
 <br>
