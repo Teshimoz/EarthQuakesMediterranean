@@ -1,4 +1,4 @@
-# Mediterranian earthquakes
+# Mediterranean earthquakes
 <b>Rendered notebook here:</b><br>
 https://colab.research.google.com/github/Teshimoz/EarthQuakesMediterranian/blob/main/EarthQuakesMediterranean.ipynb
 <br><br>
