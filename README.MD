@@ -1,6 +1,6 @@
 # Mediterranean earthquakes
 <b>Rendered notebook here:</b><br>
-https://colab.research.google.com/github/Teshimoz/EarthQuakesMediterranian/blob/main/EarthQuakesMediterranean.ipynb
+https://drive.google.com/file/d/1mKGkTjgozxntdppvqbSAeoR86wjZ2LhK/view?usp=sharing
 <br><br>
 <b>Vizualisations on Tableau:</b><br>
 https://public.tableau.com/app/profile/lev.drozdov/viz/Mediterraneanearthquakes/Dashboard
