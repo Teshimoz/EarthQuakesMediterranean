@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/lev.drozdov/viz/Mediterraneanearthquakes/
 The data is from US Geological Survey - https://earthquake.usgs.gov/
 https://earthquake.usgs.gov/earthquakes/search/
 <br>
-Earthquakes in Mediterranian area since 1900 through 2022, above magnitude 4.5
+Earthquakes in Mediterranean area since 1900 through 2022, above magnitude 4.5
 <br><br>
 <i>Remark<br>
 There is a charpter about earthquake predictions in the book 'The Signal and the Noise' of Nate Silver. The bottom line is that we still can't predict events, like in meteorology. But we do have Gutenberg–Richter law:
