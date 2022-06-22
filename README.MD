@@ -6,7 +6,7 @@ https://nbviewer.org/github/Teshimoz/EarthQuakesMediterranean/blob/4374f293ed407
 https://public.tableau.com/app/profile/lev.drozdov/viz/Mediterraneanearthquakes/Dashboard
 <br><br>
 <b>The purpose of the project:</b><br>
-To approve an absence of trend in earthquakes and that they distributed equally in time.<br>
+To approve an absence of trend in earthquakes and their evenly distribution over time.<br>
 Used methods:
 * Tested maximum magnitudes distribution by Mann Whitney U test
 * Illustrated the law of Guteberg-Richter on current data
