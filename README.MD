@@ -1,13 +1,13 @@
 # Mediterranean earthquakes
 <b>Rendered notebook here:</b><br>
-https://nbviewer.org/github/Teshimoz/EarthQuakesMediterranean/blob/95f618f0085f0979f1f15f962473493d304b8833/EarthQuakesMediterranean.ipynb
+https://nbviewer.org/github/Teshimoz/EarthQuakesMediterranean/blob/4374f293ed407037c4bb60caaf6dfae1cbea315b/EarthQuakesMediterranean.ipynb
 <br><br>
 <b>Vizualisations in Tableau:</b><br>
 https://public.tableau.com/app/profile/lev.drozdov/viz/Mediterraneanearthquakes/Dashboard
 <br><br>
-<b>Project description:</b><br>
-The purpose was to approve that there is no trend in earthquakes, that they distributed equally in time.<br>
-Used two methods:
+<b>The purpose of the project:</b><br>
+To approve an absence of trend in earthquakes and that they distributed equally in time.<br>
+Used methods:
 * Tested maximum magnitudes distribution by Mann Whitney U test
 * Illustrated the law of Guteberg-Richter on current data
 
